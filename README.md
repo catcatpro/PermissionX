@@ -1,5 +1,5 @@
 # PermissionX
-PermissionX是一个用于简化Android运行时权限用户的开源库。
+PermissionX是一个用于简化Android运行时权限用法的开源库。
 
 ## 第一步
 ```shell
@@ -32,4 +32,4 @@ dependencies {
                 }
             }
 ```
-## 最后需要在AndroidManifest.xml文件中申请相应的权限，
+## 最后需要在AndroidManifest.xml文件中添加相应的权限。
